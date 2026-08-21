@@ -69,8 +69,8 @@ The application analyzes the statement and returns scores for:
 ### Emotion Detection Result
 
 The application analyzes the entered text, calculates individual emotion scores, and identifies the dominant emotion.
-
-![Emotion Detection Result](screenshots/6b_deployment_test.png.png)
+![Emotion Detection Result1](screenshots/6a_deployment_test.png.png)
+![Emotion Detection Result2](screenshots/6b_deployment_test.png.png)
 
 ### Error Handling
 
