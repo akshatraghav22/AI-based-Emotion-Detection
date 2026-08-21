@@ -64,6 +64,26 @@ The application analyzes the statement and returns scores for:
 
 **Dominant Emotion: Joy**
 
+## Project Screenshots
+
+### Emotion Detection Result
+
+The application analyzes the entered text, calculates individual emotion scores, and identifies the dominant emotion.
+
+![Emotion Detection Result](screenshots/6b_deployment_test.png.png)
+
+### Error Handling
+
+Blank or invalid input is handled gracefully without crashing the application.
+
+![Error Handling](screenshots/7c_error_handling_interface.png.png)
+
+### Code Quality
+
+Static code analysis was performed using Pylint, achieving a **10.00/10** score.
+
+![Pylint Score](screenshots/8a_static_code_analysis.png.png)
+
 ## Project Structure
 
     AI-based-Emotion-Detection/
