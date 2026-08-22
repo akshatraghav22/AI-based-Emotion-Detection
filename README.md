@@ -133,8 +133,7 @@ Through this project, I gained hands-on experience with:
 - Using Git and GitHub for version control
 
 ## Author
-*Akshat Raghav*
-Data Analyst | Python | SQL | Power BI | AI/ML
+
 **Akshat Raghav**
 
 Data Analyst | Python | SQL | Power BI | AI/ML
