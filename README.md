@@ -69,20 +69,20 @@ The application analyzes the statement and returns scores for:
 ### Emotion Detection Result
 
 The application analyzes the entered text, calculates individual emotion scores, and identifies the dominant emotion.
-![Emotion Detection Result1](screenshots/6a_deployment_test.png/)
-![Emotion Detection Result2](screenshots/6b_deployment_test.png/)
+![Emotion Detection Result1](screenshots/6a_deployment_test_temp.png)
+![Emotion Detection Result2](screenshots/6b_deployment_test_temp.png)
 
 ### Error Handling
 
 Blank or invalid input is handled gracefully without crashing the application.
 
-![Error Handling](screenshots/7c_error_handling_interface.png/)
+![Error Handling](screenshots/7c_error_handling_interface_temp.png)
 
 ### Code Quality
 
 Static code analysis was performed using Pylint, achieving a **10.00/10** score.
 
-![Pylint Score](screenshots/8a_static_code_analysis.png/)
+![Pylint Score](screenshots/8a_static_code_analysis_temp.png)
 
 ## Project Structure
 
